@@ -23,12 +23,10 @@ $Id: $
 此工具仅用于研究目的
 禁止恶意使用此工具。
 
-@author Jan Seidl <http://wroot.org/>
-
-@date 2013-03-26
+@date 2019-07-15
 @version 2.0
 
-@TODO 在 python 3.x 中测试
+@iasheep 在 python 3.x 中测试
 
 执照：
 本软件在 GNU 通用公共许可证第 3 版 (GPLv3) 下分发
