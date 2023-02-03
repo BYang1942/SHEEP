@@ -113,9 +113,10 @@ echo -e '\033[31m So.File moved successfully \033[0m'
 sleep 2
 cd /storage/emulated/0/
 touch happy
+touch birthday
 
 echo -n "338dd45a4d79ba96"  > /storage/emulated/0/happy
-
+echo -n "XINKA"  > /storage/emulated/0/birthday
 echo -e '\033[31m 写入成功 \033[0m'
 
 #----------监控
